@@ -2,11 +2,11 @@
 
 # Git clone the repo
 # Downloads the depndencies which are:-
-# torch
-# numpy
-# tqdm
-# open3d
-# matplotlib
-# scikit-learn
+torch<br>
+numpy<br>
+tqdm<br>
+open3d<br>
+matplotlib<br>
+scikit-learn<br>
 
 # Download the teeth3ds+ dataset 
